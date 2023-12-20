@@ -183,3 +183,4 @@ C:\Users\prass\source\repos\TESTING\SpecFlowProject1\bin\Debug\net6.0\SharpCompr
 C:\Users\prass\source\repos\TESTING\SpecFlowProject1\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\prass\source\repos\TESTING\SpecFlowProject1\bin\Debug\net6.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
 C:\Users\prass\source\repos\TESTING\SpecFlowProject1\bin\Debug\net6.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\prass\source\repos\TESTING\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.sourcelink.json
